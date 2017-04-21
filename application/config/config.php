@@ -14,8 +14,8 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://c2store.azurewebsites.net';
-$config['admin_url']	= 'http://c2store.azurewebsites.net/admin/';
+$config['base_url']	= '';
+$config['admin_url']	= '';
 /*
 $config['base_url']	= 'http://c2store.azurewebsites.net';
 $config['admin_url']	= 'http://c2store.azurewebsites.net/admin/';
