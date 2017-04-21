@@ -48,10 +48,10 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = 'localhost';
-$db['default']['username'] = 'koray';
-$db['default']['password'] = 'koray';
-$db['default']['database'] = 'koray';
+$db['default']['hostname'] = 'us-cdbr-azure-southcentral-f.cloudapp.net';
+$db['default']['username'] = 'b991ad8f8a5a9a';
+$db['default']['password'] = '1c8daa7c';
+$db['default']['database'] = 'acsm_1f2ddcb2375982f';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
 $db['default']['pconnect'] = TRUE;
@@ -64,6 +64,9 @@ $db['default']['swap_pre'] = '';
 $db['default']['autoinit'] = TRUE;
 $db['default']['stricton'] = FALSE;
 
+/*
+Database=acsm_1f2ddcb2375982f;Data Source=us-cdbr-azure-southcentral-f.cloudapp.net;User Id=b991ad8f8a5a9a;Password=1c8daa7c
+*/
 
 /* End of file database.php */
 /* Location: ./application/config/database.php */
