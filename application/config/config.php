@@ -14,8 +14,8 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://jolyjokerz.com/';
-$config['admin_url']	= 'http://jolyjokerz.com/admin/';
+$config['base_url']	= 'http://c2store.azurewebsites.net';
+$config['admin_url']	= 'http://c2store.azurewebsites.net/admin/';
 /*
 |--------------------------------------------------------------------------
 | Index File
